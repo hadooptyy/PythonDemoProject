@@ -1,5 +1,12 @@
 # coding=utf-8
 
+'''
+    Python小爬虫，Python3.5
+    @author Wells
+    @version v1.0
+    @date 2016-04-04
+'''
+
 import urllib.request
 import re
 import time
